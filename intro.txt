@@ -1,0 +1,14 @@
+Welcome to the Sample Project.
+
+This project is a simple demonstration of an AI onboarding assistant.
+
+Features include:
+- Easy setup
+- Fast responses
+- Support for multiple file types
+
+To run the project, use the command: python main.py
+
+For issues, contact vedandteam134@example.com
+
+The weather in bengaluru india is 33.334 degrees Celsius.
