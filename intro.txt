@@ -11,4 +11,4 @@ To run the project, use the command: python main.py
 
 For issues, contact vedandteam134@example.com
 
-The weather in bengaluru india is 33.334 degrees Celsius.
+The weather in bengaluru india is 28.564 degrees Celsius.
